@@ -9,7 +9,7 @@ const Header = () => {
       className="d-flex align-items-center justify-content-center text-center position-relative"
       style={{
         backgroundImage:
-          "linear-gradient(rgba(163, 163, 163, 0.6), rgba(0, 0, 0, 0.6)), url('/src/assets/cover.jpg')",
+          "linear-gradient(rgba(163, 163, 163, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.pexels.com/photos/5632387/pexels-photo-5632387.jpeg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         height: "94vh",
